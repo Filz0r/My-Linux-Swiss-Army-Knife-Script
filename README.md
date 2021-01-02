@@ -5,23 +5,25 @@
 
   1-  Run the following command in your command line 
   
-      `git clone https://github.com/Filz0r/My-Linux-Swiss-Army-Knife-Script.git`
+      git clone https://github.com/Filz0r/My-Linux-Swiss-Army-Knife-Script.git
       
   2-  Go into the folder you just downloaded and run the following command:
   
-      `chmod x+ myLinuxSwissArmyKnife.py`
+      chmod x+ myLinuxSwissArmyKnife.py
       
-  3-  Make sure you have Python3 installed in your system!
+  3-  **Make sure you have Python3 installed in your system!**
   
   4-  after that you can run this script by running one of the following commands:
   
-      `/Path/To/Dir/myLinuxSwissArmyKnife.py`
+      /Path/To/Dir/myLinuxSwissArmyKnife.py
       
       OR
       
-      `cd /Path/To/Dir/`
+      cd /Path/To/Dir/
       
-      `./myLinuxSwissArmyKnife.py`
+      ./myLinuxSwissArmyKnife.py
+      
+ 
 ## Important Notes
 
 This tool is not built to be used by everyone, however it was designed to be able to easily be changed by anyone that knows Python, I'm no Python guru as it stands, this is in fact my first ever Python project.
