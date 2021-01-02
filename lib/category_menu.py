@@ -5,6 +5,7 @@ from categories.monitoring import monitoring
 
 from modules.mining import mining
 from modules.automation import automation
+from modules.add_alias import add_alias
 
 
 def menu():
@@ -17,6 +18,7 @@ def menu():
 ##  4 -> Mining
 ##  5 -> Monitoring
 ##  6 -> Automation
+##  7 -> Add an alias to run this script
 ##############################''')
     question = input('''
 ##############################
@@ -52,6 +54,9 @@ INPUT: ''')
         elif response == 6:
             response = 0
             automation()
+        elif response == 7:
+            response = 0
+            add_alias()
         else:
             print('error invalid choice')
             return menu()
