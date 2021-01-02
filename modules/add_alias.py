@@ -15,7 +15,7 @@ def add_alias():
     try:
         username = input(
             'What is the username on your system?: (case sensitive)')
-        command = "echo alias armyknife='/home/{}/My-Linux-Swiss-Army-Knife/myLinuxSwissArmyKnife.py' >> /home/{}/.bashrc".format(
+        command = "echo alias armyknife='/home/{}/My-Linux-Swiss-Army-Knife-Script/myLinuxSwissArmyKnife.py' >> /home/{}/.bashrc".format(
             username, username)
         os.system(command)
     except:
