@@ -2,15 +2,25 @@
   This is my first ever Python Script that is compressed in a bunch of small scripts that run with the help of a simple GUI, I use it to automate some tedious tasks on my everyday actions inside a command line, hope this serves as an inspiration for you to build yours!
   
 ## How to use
+
   1-  Run the following command in your command line 
+  
       `git clone https://github.com/Filz0r/My-Linux-Swiss-Army-Knife-Script.git`
+      
   2-  Go into the folder you just downloaded and run the following command:
+  
       `chmod x+ myLinuxSwissArmyKnife.py`
+      
   3-  Make sure you have Python3 installed in your system!
+  
   4-  after that you can run this script by running one of the following commands:
+  
       `/Path/To/Dir/myLinuxSwissArmyKnife.py`
+      
       OR
+      
       `cd /Path/To/Dir/`
+      
       `./myLinuxSwissArmyKnife.py`
 ## Important Notes
 
